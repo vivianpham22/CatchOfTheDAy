@@ -5,7 +5,6 @@ import { BrowserRouter, Match, Miss} from 'react-router';
 import './css/style.css';
 import App from './components/App';
 import Header from './components/Header';
-import Fish from './components/Fish';
 import Order from './components/Order';
 import Inventory from './components/Inventory';
 import StorePicker from './components/StorePicker';
